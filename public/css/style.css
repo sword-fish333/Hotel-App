@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Black+Han+Sans|Fascinate+Inline|Old+Standard+TT|Vidaloka');    
+.footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+    height: 60px;
+    padding: 20px;
+}
+
+.main_title{
+    font-family: 'Old Standard TT', serif;
+    font-size: 34px;
+    color: 	white;
+}
+
+.quote{
+color: 	#000000;
+font-family: 'Vidaloka', serif;
+font-style: italic;
+}
+
+.jumbotron{
+    background: #A52A2A;
+}
+
+body{
+    background: 	#20B2AA;
+    color: white;
+    
+}
+
+.txt{
+    font-size: 16px;
+    font-family: 'Vidaloka', serif;
+    color:white;
+    margin-top: 30px;
+    
+}
+.new_client{
+    font-size: 30px;
+    font-family: 'Vidaloka', serif;
+    color:white;
+    
+    font-style: italic;
+    margin-top: 30px;
+}
+.for_client{
+    font-size: 22
+    px;
+    font-family: 'Vidaloka', serif;
+    color:white;
+    
+    font-style: italic;
+    margin-top: 30px;
+}
+
+.booking_for{
+   
+    font-family: 'Vidaloka', serif;
+    color:white;
+    text-align: center;
+    font-style: italic;
+}
+.for{
+    font-family: 'Old Standard TT', serif;
+    font-size: 22px;
+    color: 	black;
+}
